@@ -60,6 +60,14 @@ Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatori
 
 ---
 
+## 🌐 Acesse o Projeto Online
+
+Você pode testar o projeto acessando o link abaixo:
+
+🔗 [Amigo Secreto - Versão Online](https://rafaelsilvalor.github.io/amigo-secreto-one/)
+
+---
+
 ## 💙 Agradecimentos
 
 Quero expressar minha gratidão aos instrutores da **Alura** pelo excelente conteúdo e dedicação ao ensino, à **Oracle** pela oportunidade incrível de participar da formação **One Oracle Next Education**, e à comunidade no **Discord** da formação pelo apoio, troca de conhecimento e incentivo constante. Esse aprendizado só foi possível graças a essa rede de pessoas incríveis! 🚀🙏
